@@ -1,0 +1,3 @@
+testing is one of the vital activities of system development.
+you just cannot live without it,
+the ramifications of coding without testing are extremely hard and strenuous
