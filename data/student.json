@@ -1,3 +1,16 @@
 {
-	"languages": ["English","Chichewa","Tumbuka"]
+	"Student1":{
+		"firstname":"Donnell",
+		"lastname":"Maxy",
+		"age":"33",
+		"course":"Computer Science",
+		"modules":["foundation to computering","computer programming"]
+	},
+	"Student2":{
+		"firstname":"Maxwell",
+		"lastname":"Lucado",
+		"age":"33",
+		"course":"Computer Science",
+		"modules":["foundation to computering","computer programming"]
+	}
 }

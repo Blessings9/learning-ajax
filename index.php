@@ -8,8 +8,11 @@
 <body>
 	<div>
 	<p>
-		<img src="pics/ziks.png" alt="">
-		<button id="request">Learn more about Zikani</button>
+		<!-- <img src="pics/ziks.png" alt=""> -->
+		<button id="button"></button>
+		<p id="printed">
+			
+		</p>
 	</p>
 	<p id="bio">
 		
